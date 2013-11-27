@@ -1,0 +1,7 @@
+1. Copy/Paste to root of your CI project
+2. CHMOD -R 777 files directory
+3. Enable files and dompdf helpers in CI Config
+4. Use example that provided in Controllers folder
+
+Best Regards, 
+Roussakov
